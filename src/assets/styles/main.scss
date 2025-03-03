@@ -490,9 +490,9 @@ section .section-header {
 #pilots .pilot {
   display: flex;
   flex-direction: row;
-  padding: 1em;
-  column-gap: 1em;
-  height: 136px;
+  padding: .5em;
+  column-gap: .5em;
+  height: 116px;
   border-bottom: none;
   z-index: 1;
   cursor: pointer;
@@ -514,13 +514,13 @@ section .section-header {
 
   .pilot-portrait {
     width: 104px;
-    height: 136px;
+    height: 116px;
     object-fit: cover;
   }
 
   .mech-portrait {
     width: 104px;
-    height: 136px;
+    height: 116px;
     object-fit: cover;
   }
 
@@ -566,13 +566,13 @@ section .section-header {
   transition: 0.2s ease;
   position: absolute;
   text-align: center;
-  height: 136px;
+  height: 116px;
   background-color: $highlight-hover;
   display: flex;
   align-items: center;
   margin-bottom: 1em;
   width: 0px;
-  margin-top: -153px;
+  margin-top: -124px;
   margin-left: 1em;
   z-index: -1;
 
