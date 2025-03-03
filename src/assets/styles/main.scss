@@ -203,7 +203,7 @@ header {
   top: -30px;
 }
 
-header video {
+header img[alt=station] {
   margin-left: 3.5%;
   width: 86px;
   height: 86px;
@@ -219,7 +219,7 @@ div .location-info {
   color: $text-location;
 }
 
-header video,
+header img[alt=station],
 div.location-info {
   animation: 0.5s ease 1 flickerIn;
   animation-delay: 2s;

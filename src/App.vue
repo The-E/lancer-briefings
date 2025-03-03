@@ -157,7 +157,7 @@ export default {
         },
       ],
       "header": {
-        "Station": "Tradegate",
+        "planet": "Tradegate",
         "year": "5014u",
         "system": "Outlands",
         "gate": "Bytopia",
