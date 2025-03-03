@@ -27,7 +27,7 @@ export default {
 	},
 	computed: {
 		icon() {
-			return `/icons/mission-${this.mission.status}.svg`
+			return `./icons/mission-${this.mission.status}.svg`
 		},
 		missionStatus() {
 		    if (this.mission.slug === this.selected) return "Current\nBriefing"

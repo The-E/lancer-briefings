@@ -176,7 +176,7 @@ export default {
     },
     loadMissionMarkdown() {
       let self = this;
-      let md = `/missions/${self.mission_slug}.md`
+      let md = `./missions/${self.mission_slug}.md`
       var client = new XMLHttpRequest();
       client.open('GET', md);
       client.onreadystatechange = function () {
@@ -189,10 +189,10 @@ export default {
       let md = "";
 
       if(self.options.eventsMarkdownPerMission){
-        md = `/events/${self.mission_slug}.md`
+        md = `./events/${self.mission_slug}.md`
       }
       else {
-        md = "/events.md"
+        md = "./events.md"
       }
 
       var client = new XMLHttpRequest();

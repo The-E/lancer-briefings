@@ -2,7 +2,7 @@
 	<div class="pilot-modal">
 		<div class="pilot-header-container">
 			<div class="section-header clipped-medium-backward-bio">
-				<img src="/icons/pilot-icon.svg" />
+				<img src="./icons/pilot-icon.svg" />
 				<h1>{{ pilot.alias }} [{{ pilot.callsign }}]</h1>
 			</div>
 			<div class="rhombus-back">&nbsp;</div>
