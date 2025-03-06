@@ -133,8 +133,8 @@ export default {
         },
         {
           "callsign": "Raju",
-          "alias": "Ratju",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96",
+          "alias": "Faunel Pioneers",
+          "code": "n0t-ju57-4-g14n7-p1l3-0f-r475",
           "corpro": "WTF (IPS-N)",
           "frame": "IdontEvenKnow (Kidd)",
           "mech": "RADD"
