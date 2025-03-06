@@ -135,8 +135,8 @@ export default {
           "callsign": "Raju",
           "alias": "Faunel Pioneers",
           "code": "n0t-ju57-4-g14n7-p1l3-0f-r475",
-          "corpro": "WTF (IPS-N)",
-          "frame": "IdontEvenKnow (Kidd)",
+          "corpro": "IPS-N",
+          "frame": "Kidd",
           "mech": "RADD"
         },
         {
