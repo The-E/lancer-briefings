@@ -140,12 +140,12 @@ export default {
           "mech": "RADD"
         },
         {
-          "callsign": "Raju",
-          "alias": "Ratju",
+          "callsign": "WOL",
+          "alias": "Saryn",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96",
-          "corpro": "WTF (IPS-N)",
-          "frame": "IdontEvenKnow (Kidd)",
-          "mech": "RADD"
+          "corpro": "KRF",
+          "frame": "Orchis",
+          "mech": "Bulwark"
         },
         {
           "callsign": "Raju",
