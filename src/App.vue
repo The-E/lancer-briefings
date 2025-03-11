@@ -129,7 +129,7 @@ export default {
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96",
           "corpro": "SSC",
           "frame": "Metalmark",
-          "mech": "Beware! I am your Enemy"
+          "mech": "no data"
         },
         {
           "callsign": "Raju",
@@ -143,17 +143,17 @@ export default {
           "callsign": "WOL",
           "alias": "Saryn",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96",
-          "corpro": "KRF",
+          "corpro": "RKF",
           "frame": "Orchis",
           "mech": "Bulwark"
         },
         {
-          "callsign": "Raju",
-          "alias": "Ratju",
+          "callsign": "SARAH",
+          "alias": "Sarah Kepler",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96",
-          "corpro": "WTF (IPS-N)",
-          "frame": "IdontEvenKnow (Kidd)",
-          "mech": "RADD"
+          "corpro": no data",
+          "frame": "no data",
+          "mech": "no data"
         },
       ],
       "header": {
