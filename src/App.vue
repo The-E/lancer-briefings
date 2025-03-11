@@ -151,7 +151,7 @@ export default {
           "callsign": "SARAH",
           "alias": "Sarah Kepler",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96",
-          "corpro": no data",
+          "corpro": "no data",
           "frame": "no data",
           "mech": "no data"
         },
