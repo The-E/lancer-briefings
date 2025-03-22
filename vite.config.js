@@ -7,8 +7,6 @@ export default defineConfig({
   plugins: [vue()],
   base: "/lancer-briefings/",
   resolve: {
-    alias: {
-      '@': `${path.resolve(__dirname, 'src')}/`,
-    },
+
   }
 })
