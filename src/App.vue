@@ -124,12 +124,12 @@ export default {
           "mech": "Beware! I am your Enemy"
         },
         {
-          "callsign": "Bevyn",
+          "callsign": "Horizon",
           "alias": "Bevyn Wildheart",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96",
           "corpro": "SSC",
           "frame": "Metalmark",
-          "mech": "no data"
+          "mech": "Leporide Vengance"
         },
         {
           "callsign": "Raju",
@@ -141,7 +141,7 @@ export default {
         },
         {
           "callsign": "WOL",
-          "alias": "Saryn",
+          "alias": "Serin Qhirnu",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96",
           "corpro": "RKF",
           "frame": "Orchis",
