@@ -96,7 +96,7 @@ export default {
         {
           "slug": "001",
           "name": "Meteor Swarm",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "002",
