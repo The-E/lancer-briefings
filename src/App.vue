@@ -165,7 +165,7 @@ export default {
         "headerTitle": "IEDCARU",
         "headerSubtitle": "Githzerai Class Castle",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Timedragon Company",
       },
       "options":{
         "eventsMarkdownPerMission": false
