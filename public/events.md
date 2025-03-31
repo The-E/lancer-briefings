@@ -1,23 +1,21 @@
-# Tradegate Station // 2.21.5014u
+# Hell's Gate // 
 
-Hostile forces appeared in hte station interior by **unknown means**.
-The command center was quickly seized, **Trademaster**, the stations administrative NHP disabled, and the automated defenses turned onto garrisonned troops.
+BREAK BREAK BREAK ALL STATIONS ALL STATIONS CLEAR THIS CHANNEL ON MY AUTHORITY
 
-The enemy force was composed of a variety of frame classes, but showed adherence to coherent design, suggesting a well organized background with access to dedicated printing facilities rather than a band of mercenaries.
-![image](./Assault.png)
+**SENDER**: UNS-CV THAMES, CAPTAIN MERCEDES ORDAZ
+  
+**PURPOSE**: TRAFFIC/HAZARD ALERT
+  
+**DISTRIBUTION**: WIDEBAND/ALL IN RANGE
 
-**Five** Individuals of Interest were identified, piloting exotic chassis, that resisted all classification and scrambled scanners. Communication channels were likewise scrambled.
-
-![incognito](./incognito.webp)
-
-These leaders exhibit strange, **paracausal** abilities, like sustained damage disappearing. Sustained **energy damage** seems to suppress this ability.
-
-After the on-station printing facilities were lost to the enemy, their numbers grew exponentially, where the personnel is source is as of now unknown. 
-
-Gate operations have been completely shut down, approaching vessels are deterred by warning shots, quickly followed by direct fire.
-
-With the Gate disabled **SIGIL** relief forces are unable to arrive in a timely manner.
-
-All communication with the Station is disabled, there have been no demands made so far.
-
-Working Theory is that they plan to bide their time, waiting for economic pressure by the disrupted trade routes to increase, and then to selectively reopen the gate, levying heavy tariffs. 
+BE AWARE THAT MULTIPLE FLEET-SCALE SIGNATURE CLUSTERS HAVE ENTERED THE CALLIOPEAN SPHERE OF INFLUENCE.
+  
+CLUSTER 1 HAS BEEN IDENTIFIED AS THE HARRISON ARMORY 4TH HARRISON’S WORLD, RESEARCH TASK GROUP. IT IS CURRENTLY HOLDING ORBIT OVER CHAMELEON.
+  
+CLUSTER 2 HAS BEEN IDENTIFIED AS SMITH-SHIMANO CORPRO SKYHOOK C-HK ASPECT HORIZON AND SUBLINE VESSEL COMPLEMENT. IT IS CURRENTLY HOLDING ORBIT OVER AMPHION.
+  
+CLUSTER 3 HAS BEEN IDENTIFIED AS KARRAKIN NAVAL GROUP 28 ANILINE, WITH ATTENDANT CAPITAL AND SUBLINE ESCORT. IT IS CURRENTLY HOLDING ORBIT OVER ASPHODEL.
+  
+AS OF THIS TIME, THE INTENTIONS OF THESE FORCES ARE NOT KNOWN AND HAVE NOT BEEN STATED. NO FLIGHT ITENARIES OR MISSION PROFILES HAVE BEEN SUBMITTED. WE ADVISE THAT CIVILIAN VESSELS DO NOT APPROACH.
+  
+TO ALL FLEET GROUPS ENTERING CALLIOPE: YOU ARE UNDER OBSERVATION. INTERFERENCE WITH THE SYSTEM’S POPULACE WILL BE REPORTED TO THE CENTRAL COMMITTEE.

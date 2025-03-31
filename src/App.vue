@@ -89,83 +89,68 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "001",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "001",
-          "name": "Meteor Swarm",
+          "name": "Welcome Back",
           "status": "success"
-        },
-        {
-          "slug": "002",
-          "name": "Storm of Vengeance",
-          "status": "start"
-        },
-        {
-          "slug": "003",
-          "name": "Time Stop",
-          "status": "start"
-        },
-        {
-          "slug": "004",
-          "name": "True Polymorph",
-          "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Swordsman",
-          "alias": "Kisho",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96",
-          "corpro": "ISP-N",
-          "frame": "Nelson",
-          "mech": "Beware! I am your Enemy"
+          "callsign": "Fuse",
+          "alias": "Finlay Morris",
+          "code": "this-is-calliope",
+          "corpro": "HA",
+          "frame": "Iskander",
+          "mech": "Occupational Hazard"
         },
         {
-          "callsign": "Horizon",
-          "alias": "Bevyn Wildheart",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96",
+          "callsign": "Snapshot",
+          "alias": "Fan Bonsai",
+          "code": "can-i-just-put-anything-here",
           "corpro": "SSC",
-          "frame": "Metalmark",
-          "mech": "Leporide Vengance"
+          "frame": "Emperor",
+          "mech": "Line Goes Out"
         },
         {
-          "callsign": "Raju",
-          "alias": "Faunel Pioneers",
-          "code": "n0t-ju57-4-g14n7-p1l3-0f-r475",
+          "callsign": "Athena",
+          "alias": "Booze Cartridge",
+          "code": "yes",
+          "corpro": "SSC",
+          "frame": "Oleander",
+          "mech": "Olympus"
+        },
+        {
+          "callsign": "Frost",
+          "alias": "Robert Conway",
+          "code": "look-to-windward",
           "corpro": "IPS-N",
           "frame": "Kidd",
-          "mech": "RADD"
+          "mech": "A Closed And Common Orbit"
         },
         {
-          "callsign": "WOL",
-          "alias": "Serin Qhirnu",
+          "callsign": "",
+          "alias": "",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96",
-          "corpro": "RKF",
-          "frame": "Orchis",
-          "mech": "Bulwark"
-        },
-        {
-          "callsign": "Relativity",
-          "alias": "Sarah Kepler",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96",
-          "corpro": "HA",
-          "frame": "Sherman",
-          "mech": "Quantum Effect"
+          "corpro": "",
+          "frame": "",
+          "mech": ""
         },
       ],
       "header": {
-        "planet": "Tradegate",
+        "planet": "Hell's Gate",
         "year": "5014u",
-        "system": "Outlands",
-        "gate": "Bytopia",
-        "ring": "Gatetown Ring",
-        "headerTitle": "IEDCARU",
-        "headerSubtitle": "Githzerai Class Castle",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Timedragon Company",
+        "system": "Calliope",
+        "gate": "Rào Cỏ",
+        "ring": "Annamite",
+        "headerTitle": "DRAGON'S TOOTH",
+        "headerSubtitle": "HG-0451",
+        "subheaderTitle": "Hell's Gate Militia",
+        "subheaderSubtitle": "Strategic Response Team",
       },
       "options":{
         "eventsMarkdownPerMission": false
