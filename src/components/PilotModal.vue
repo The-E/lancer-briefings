@@ -45,12 +45,12 @@ export default {
 	},
 	computed: {
 		portrait() {
-			return `/pilots/${this.pilot.callsign}.png`
+			return `./pilots/${this.pilot.callsign}.png`
 		},
 	},
 	created() {
 		let self = this;
-		let md = `/pilots/${this.pilot.callsign}.md`
+		let md = `./pilots/${this.pilot.callsign}.md`
 		var client = new XMLHttpRequest();
 		client.open('GET', md);
 		client.onreadystatechange = function () {
